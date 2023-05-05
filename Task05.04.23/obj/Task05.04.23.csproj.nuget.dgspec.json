@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CA.R215.15\\Desktop\\Task05.04.23\\Task05.04.23\\Task05.04.23.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\MiniProyekt\\MiniProject2\\Task05.04.23\\Task05.04.23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CA.R215.15\\Desktop\\Task05.04.23\\Task05.04.23\\Task05.04.23.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\MiniProyekt\\MiniProject2\\Task05.04.23\\Task05.04.23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CA.R215.15\\Desktop\\Task05.04.23\\Task05.04.23\\Task05.04.23.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\MiniProyekt\\MiniProject2\\Task05.04.23\\Task05.04.23.csproj",
         "projectName": "Task05.04.23",
-        "projectPath": "C:\\Users\\CA.R215.15\\Desktop\\Task05.04.23\\Task05.04.23\\Task05.04.23.csproj",
-        "packagesPath": "C:\\Users\\CA.R215.15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CA.R215.15\\Desktop\\Task05.04.23\\Task05.04.23\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\MiniProyekt\\MiniProject2\\Task05.04.23\\Task05.04.23.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\MiniProyekt\\MiniProject2\\Task05.04.23\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\CA.R215.15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
